@@ -11,11 +11,16 @@ int main() {
     cout << "Numero 2: \n";
     cin >> n2;
 
-    int divi = n1%n2;
-    if (divi == n3) {
-        cout << "El numero " << n1 << " es divisible entre " << n2;
+    if (n2 == 0) {
+        cout << "El segundo numero no puede ser igual a 0";
     } else {
-        cout << "El numero " << n1 << " no es divisible entre " << n2;
+        int divi = n1%n2;
+
+        if (divi == n3) {
+            cout << "El numero " << n1 << " es divisible entre " << n2;
+        } else {
+            cout << "El numero " << n1 << " no es divisible entre " << n2;
+        }
     }
 
     return 0;
