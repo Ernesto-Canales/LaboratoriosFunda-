@@ -6,7 +6,6 @@ int main() {
 
     int n1;
     int n2;
-    int n3 = 0;
 
     cout << "Numero 1: \n";
     cin >> n1;
@@ -18,7 +17,7 @@ int main() {
     } else {
         int divi = n1%n2;
 
-        if (divi == n3) {
+        if (divi == 0) {
             cout << "El numero " << n1 << " es divisible entre " << n2;
         } else {
             cout << "El numero " << n1 << " no es divisible entre " << n2;
