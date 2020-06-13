@@ -20,8 +20,8 @@ int main() {
             cout << "\nIngrese un mumero entero que se encuentre entre 1 y 100: ";
             cin >> num;
 
-            if (num <= 0) {
-                cout << "El numero ingresado no puede ser negativo\n";
+            if ((num < 1) || (num > 100)) {
+                cout << "El numero ingresado no puede estar fuera del rango [1,100]\n";
                 --i;
             } else {
                 if (n == num) { //Condicion en caso de adivinar el numero
