@@ -25,3 +25,6 @@
 
 5. Laboratorio5_tareas
 * **tarea5_ejer1_00051120.cpp**: Realizar un programa en c++ que retorne el mcd de dos números que se le proporcionen como argumento.
+* **tarea5_ejer2_00051120.cpp**: Realizar un programa en c++ que de la hora un segundo después.
+* **tarea5_ejer3_00051120.cpp**: Realizar un programa en c++ que de acuerdo al valor booleano retornado, imprima un mensaje que indique si el año es o no bisiesto.
+* **tarea5_ejer4_00051120.cpp**: Realizar un programa en c++ que calcule y dé como resultado de salida los valores de día, mes y año correspondientes al día siguiente.
