@@ -1,10 +1,11 @@
 #include <iostream>
 using namespace std;
 
+//Prototipo de euclidesMCD
 int euclidesMCD(int, int);
 
+//Progama principal - Devolver el MCD
 int main() {
-    //Devolver el MCD
     int mayor;
     int menor;
 
@@ -26,7 +27,7 @@ int main() {
     }
 }
 
-//Método de Euclides
+//Funcion del Método de Euclides
 int euclidesMCD(int mayor, int menor) {
     int residuo;
 
