@@ -28,3 +28,7 @@
 * **tarea5_ejer2_00051120.cpp**: Realizar un programa en c++ que de la hora un segundo después.
 * **tarea5_ejer3_00051120.cpp**: Realizar un programa en c++ que de acuerdo al valor booleano retornado, imprima un mensaje que indique si el año es o no bisiesto.
 * **tarea5_ejer4_00051120.cpp**: Realizar un programa en c++ que calcule y dé como resultado de salida los valores de día, mes y año correspondientes al día siguiente.
+
+6. Laboratorio6_tareas
+* **tarea6_ejer1_00051120.cpp**: Realizar un programa en c++ que dados dos arreglos de igual longitud, genere un tercer arreglo cuyos valores son la suma de dos arreglos anteriores. 
+* **tarea6_ejer2_00051120.cpp**: Realizar un programa en c++ que llene un arreglo con los 100 primeros números enteros impares y los muestre en forma descendente.
