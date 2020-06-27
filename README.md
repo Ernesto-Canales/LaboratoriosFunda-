@@ -6,8 +6,8 @@
 * **settings.json**: Ajuestes de VS Code.
 
 2. Corto2
-* **Corto2_ejer1_00051120.cpp**: Realizar un flujograma para calcular la media aritmética de 5 números.
-* **Corto2_ejer2_00051120.cpp**: Realizar un flujograma que dado un polinomio de la forma ax2 + bx + c, determine si se trata de un trinomio cuadrado perfecto.
+* **Corto2_ejer1_00051120.psc**: Realizar un flujograma para calcular la media aritmética de 5 números.
+* **Corto2_ejer2_00051120.psc**: Realizar un flujograma que dado un polinomio de la forma ax2 + bx + c, determine si se trata de un trinomio cuadrado perfecto.
 * **Corto2_ejer3_00051120.cpp**: Realizar un programa que presente la lista de colores al cliente y al escoger un color, le muestre la cantidad de dinero que ganó.
 * **Corto2_ejer4_00051120.cpp**: Realizar un programa que le solicite ingresar el país y la cantidad de dinero para calcular el IVA que debe de cancelar por dicha cantidad.
 
@@ -17,6 +17,9 @@
 * **Corto3_ejer3_00051120.cpp**: Realizar un programa en c++ que devuelva indique si un año es bisiesto o no.
 
 4. Corto4
+* **Corto4_ejer1_00051120.cpp**: Realizar un programa en c++ que dado un arreglo de caracteres codifique su contenido utilizando la clave del murciélago.
+* **Corto4_ejer2_00051120.cpp**: Realizar un programa en c++ que calcule el promedio de estatura de una clase de 25 alumnos. Decir cuantos se encuentran arriba o debajo de la media.
+* **Corto4_ejer3_00051120.cpp**: Realizar un programa en c++ que para n estudiantes, que lea sus cinco notas; luego calcule la nota final y la muestre.
 
 5. Laboratorio3_tareas
 * **tarea3_ejer1_00051120.cpp**: Realizar un programa en c++ que devuelva el promedio de 3 números enteros ingresados por el usuario.
