@@ -43,3 +43,6 @@
 8. Laboratorio6_tareas
 * **tarea6_ejer1_00051120.cpp**: Realizar un programa en c++ que dados dos arreglos de igual longitud, genere un tercer arreglo cuyos valores son la suma de dos arreglos anteriores. 
 * **tarea6_ejer2_00051120.cpp**: Realizar un programa en c++ que llene un arreglo con los 100 primeros números enteros impares y los muestre en forma descendente.
+
+9. Proyecto_final
+* **proyecto_final_00051120.cpp**: Realizar un programa en c++ que  procese información sobre productos comprados por un cliente en una tienda, a modo de procesamiento de una factura de compra.
